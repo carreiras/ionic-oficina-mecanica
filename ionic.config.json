@@ -1,0 +1,7 @@
+{
+  "name": "ionic-oficina-mecanica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
